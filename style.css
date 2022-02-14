@@ -37,6 +37,7 @@
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
   }
+  
   .column#zoomIn:hover img {
     -webkit-transform: scale(1.3);
     transform: scale(1.3);
